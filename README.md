@@ -43,7 +43,7 @@ Wokwi project**.
 # 🏗️ System Architecture
 
 <p align="center">
-   <img src="Workflow_Diagram.png" width="700">
+   <img src="Architecture_Diagram.png" width="900">
 </p>
 
 ### Main System Layers
