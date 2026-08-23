@@ -83,7 +83,7 @@ Wokwi project**.
 </p>
 
 <p align="center">
-  <img src="Risk_Diagnostic_Status_Fault_History_Operator_Recommendation.png" width="800">
+  <img src="Risk_Diagnostic_Status Fault_History Operator_Recommendation.png" width="800">
 </p>
 
 
