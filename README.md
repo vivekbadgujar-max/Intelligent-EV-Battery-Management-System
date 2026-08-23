@@ -82,6 +82,15 @@ Wokwi project**.
   <img src="Live_Telemetry.png" width="800">
 </p>
 
+
+
+---
+
+## 📄 Project Resources
+
+- 📑 [Project Report](EV_Battery_Management_System_Report.pdf)
+- 🔧 [Wokwi Project](Wokwi_Project.zip)
+
 <p align="center">
   <img src="Risk_Diagnostic_Status Fault_History Operator_Recommendation.png" width="800">
 </p>
