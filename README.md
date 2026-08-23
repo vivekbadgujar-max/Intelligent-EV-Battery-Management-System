@@ -43,7 +43,8 @@ Wokwi project**.
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="documentation/Architecture_Diagram.png" width="900">
+  <img src="<img width="1536" height="1024" alt="ChatGPT Image Aug 23, 2026, 03_34_23 AM" src="https://github.com/user-attachments/assets/54a77762-c642-4e9e-aacf-c88ef52fa63b" />
+" width="900">
 </p>
 
 ### Main System Layers
