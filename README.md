@@ -46,6 +46,12 @@ Wokwi project**.
    <img src="Architecture_Diagram.png" width="900">
 </p>
 
+# 🔄 System Workflow
+
+<p align="center">
+  <img src="Workflow_Diagram.png" width="700">
+</p>
+
 ### Main System Layers
 
 ```text
