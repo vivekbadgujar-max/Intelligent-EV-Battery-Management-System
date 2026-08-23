@@ -79,7 +79,7 @@ Wokwi project**.
 </p>
 
 <p align="center">
-  <img src="Live_Telemetry 02 & 03_Historical_Voltage_Trends.png" width="800">
+  <img src="Live_Telemetry.png" width="800">
 </p>
 
 <p align="center">
