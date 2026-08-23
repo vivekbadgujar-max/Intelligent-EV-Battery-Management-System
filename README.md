@@ -66,3 +66,21 @@ Wokwi project**.
 ☁️ Blynk Cloud Telemetry
         ↓
 📊 Executive Dashboard
+
+---
+
+# 📊 Blynk IoT Dashboard
+
+<p align="center">
+  <img src="01_Dashboard_Overview.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Live_Telemetry 02 & 03_Historical_Voltage_Trends.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Risk_Diagnostic_Status_Fault_History_Operator_Recommendation.png" width="800">
+</p>
+
+
