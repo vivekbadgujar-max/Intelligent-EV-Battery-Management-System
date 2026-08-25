@@ -91,7 +91,7 @@ Wokwi project**.
 
 ## 📄 Project Resources
 
-- 📑 [Project Report](EV_Battery_Management_System_Report.pdf)
+- 📑 [Project Report](./EV_Battery_Management_System_Final_Report.pdf)
 - 🔧 [Wokwi Project](Wokwi_Project.zip)
-   - 💻 [Task-wise Source Code](./Task_Codes)
+- 💻 [Task-wise Source Code](./Task_Codes)
 
