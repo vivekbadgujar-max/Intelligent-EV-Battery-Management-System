@@ -2,9 +2,6 @@
 
 ### ⚡ ESP32-Based | Wokwi Simulation | Blynk IoT | Embedded Battery Intelligence
 
-<p align="center">
-  <img src="documentation/Architecture_Diagram.png" width="900">
-</p>
 
 <p align="center">
   <b>Intelligent, Event-Driven and Fault-Tolerant EV Battery Management System</b>
